@@ -1,0 +1,78 @@
+{
+  "baseurl": "https://chukwudidu.github.io",
+  "title": "chukwudidu",
+  "languageCode": "en-uk",
+  "theme": "hello-friend-ng",
+  "paginate": 10,
+  "params": {
+    "dateform": "Jan 2, 2006",
+    "dateformShort": "Jan 2",
+    "dateformNum": "2006-01-02",
+    "dateformNumTime": "2006-01-02 15:04",
+    "homeSubtitle": "I am a Software Engineer and Consultant based in Lagos, Nigeria.",
+    "disableReadOtherPosts": false,
+    "enableSharingButtons": true,
+    "EnableThemeToggle": true,
+    "description": "My personal site",
+    "keywords": "homepage, blog, tech, software, life",
+    "images": [
+      ""
+    ],
+    "contentTypeName": "posts",
+    "defaultTheme": "dark",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/chukwudi_du"
+      },
+      {
+        "name": "email",
+        "url": "mailto:chukwudi.ume@gmail.com"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chukwudidu"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chukwudi-umeilechukwu/"
+      }
+    ],
+    "footer": {
+      "trademark": true,
+      "author": true,
+      "rss": true,
+      "copyright": true,
+      "bottomText": [
+        "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+        "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      ]
+    }
+  },
+  "taxonomies": {
+    "category": "blog",
+    "tag": "tags",
+    "series": "series"
+  },
+  "author": {
+    "name": "Chukwudi Umeilechukwu"
+  },
+  "languages": {
+    "en": {
+      "title": "Hello, I'm Chukwudi",
+      "subtitle": "Welcome to my space",
+      "keywords": "",
+      "copyright": "<a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a>",
+      "readOtherPosts": "Read other posts",
+      "params": {
+        "logo": {
+          "logoMark": "->",
+          "logoText": "$ ~",
+          "logoHomeLink": "/",
+          "logoCursorColor": "#3E885B",
+          "logoCursorAnimate": ".5s"
+        }
+      }
+    }
+  }
+}
